@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I am a Small Sysadmin. I run 3 cloud servers, play video games, and work for amazon. I enjoy what I do and will probably do it for a lifetime.
+I am a Network Administrator for [RLMTECH](https://rlmtech.xyz). I run 3 cloud servers, develop stuff and listen to music. If you need to, you can always [Contact Me](mailto:inq@rossmers.ch)
