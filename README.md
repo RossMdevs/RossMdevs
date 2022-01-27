@@ -9,7 +9,7 @@ If you ever need to, you may always contact me across my networks.
 * [I: COA Mail (Indiana Organization)](mailto:ross@indianacrossroadsofamerica.com)
 
 
-I consult with new organizations/projects on their needs, product suggestions, and startups. I volunteer my time with new communities to help them grow into an ideal enviornment. I have plenty of experience in community managment, team directives, and startups. If you'd like me to help with any of your community startups with community engagment, directives, rules, polices or staff placement. Please contact me at [startup@rlmtech.xyz](mailto:startup@rlmtech.xyz)
+I consult with new organizations/projects on their needs, product suggestions, and startups. I volunteer my time with new communities to help them grow into an ideal enviornment. I have plenty of experience in community managment, team directives, and threat elimination. If you would like me to help your community startups with community engagment, directives, rules, polices, staff placement or threat elimination. Please contact me at [startup@rlmtech.xyz](mailto:startup@rlmtech.xyz)
 
 
 
