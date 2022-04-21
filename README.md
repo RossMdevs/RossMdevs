@@ -1,20 +1,20 @@
-JETBRAINS Authentication.
 
-Request ID=04042022/9137596
 
 ### Hey there! 👋
 ### I am Ross Mersch,
 
-I am a Network Administrator for [RLMTECH](https://rlmtech.xyz). I run a dedicated website, develop small stuff, promote ideas, listen to music, and participate in community discussions.
+I am a Network Administrator for [RLMTECH](https://rlmtech.xyz) & ITSM & DevOPS Coordinator for [IN:COA](https://indianacoa.com/team).
 
-If you ever need to, you may always contact me across my networks.
+I work with servers to provide constructive feedback. I specialize in helping owners envision service growth, and provide critical infrastructure thinking. 
 
-* [RLMTECH Mail](mailto:inq@rossmers.ch)
+If you ever need to, you may always contact me on my network.
+
 * [I: COA Mail (Indiana Organization)](mailto:ross@indianacoa.com)
 
 
-I consult with new organizations/projects on their needs and product suggestions. I volunteer my time with new communities to help them grow into an ideal enviornment. I have plenty of experience in community managment, team directives, and threat elimination. If you would like me to help your community startups with community engagment, directives, rules, polices, staff placement or threat elimination. Please contact me at [inq@rossmers.ch](mailto:inq@rossmers.ch)
+I consult with new organizations/projects on their needs and product suggestions. I volunteer my time with new communities to help them grow into an ideal enviornment. I have plenty of experience in community managment, team directives, and threat elimination. If you would like me to help your community startups with community engagment, directives, rules, polices, staff placement or threat elimination. Please contact me at [IN:COA Mail](mailto:ross@indianacoa.com)
 
+# I am someone whom dedicates my time, I work soley for non-profits, startups or other critial small businesses.
 
 
 Quite a few projects I've maintained
