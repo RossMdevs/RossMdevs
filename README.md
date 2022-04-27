@@ -3,7 +3,7 @@
 ### Hey there! 👋
 ### I am Ross Mersch,
 
-I am a Network Administrator for [RLMTECH](https://rlmtech.xyz) & ITSM & DevOPS Coordinator for [IN:COA](https://indianacoa.com/team).
+I am a Network Administrator for [RLMTECH](https://rlmtech.xyz) & ITSM Coordinator for [IN:COA](https://indianacoa.com/team).
 
 I work with servers to provide constructive feedback. I specialize in helping owners envision service growth, and provide critical infrastructure thinking. 
 
