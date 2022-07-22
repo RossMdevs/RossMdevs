@@ -20,7 +20,7 @@ I consult with new organizations/projects on their needs and product suggestions
 
 Quite a few projects I've worked for
 * [IndianaCOA](https://indianacoa.com),
-* [LSRP (Liberty State Rooleplay)[https://discord.gg/LSRPS]
+* [LSRP (Liberty State RolePlay)](https://discord.gg/LSRPS),
 * EndlessHosting,
 * RLMTECH,
 * Discord Stop,
