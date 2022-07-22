@@ -25,4 +25,4 @@ Quite a few projects I've worked for
 * RLMTECH,
 * Discord Stop,
 * Troop Life, (Roblox)
-* and many more small discord servers.
+* And many additional services.
