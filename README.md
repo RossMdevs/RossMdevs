@@ -18,8 +18,9 @@ I consult with new organizations/projects on their needs and product suggestions
 #### I am someone whom dedicates my time, I work soley for non-profits, startups or other critical small businesses.
 
 
-Quite a few projects I've maintained
+Quite a few projects I've worked for
 * [IndianaCOA](https://indianacoa.com),
+* [LSRP (Liberty State Rooleplay)[https://discord.gg/LSRPS]
 * EndlessHosting,
 * RLMTECH,
 * Discord Stop,
