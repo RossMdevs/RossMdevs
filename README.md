@@ -8,7 +8,9 @@ I am a **Experienced** individual working with many areas of Information Technol
 * Linux Administration (Apt Repositories, Web-Hosting, Security Updates, Bash Writing, General Maintenance),
 * SAAS Product Integration (OKTA Authentication into Programs, Development Enviorments, NGINX/APACHE Webhost Configurations),
 * Office365 Management
-* Active Directory Domain Services (Local Domain Tree Foresting & Authorization).
+* Active Directory Domain Services (Local Domain Tree Foresting & Authorization)
+* CloudFlare (ZeroTrust, DNS Services, and Firewall sets),
+* Amazon (VDI, Route53, and S3 Containers).
 
   I've worked with multiple systems, integrating a suite of products. I face complex tasks headon and support small startup communities and products.
 
