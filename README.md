@@ -15,9 +15,11 @@ I am a **experienced** individual working with many areas of Information Technol
 * Github (WebGUI, Pull Requests, Code Editing),
 * Atlassian (ServiceDesk, Confluence, Bitbucket | Jira Agile),
 * DNS Administration (DNS Resolution, Deployance, DNSSEC, HTTPS, DNS Digging),
-* DHCP Management (DNS Routance, Router/Edge Deployance, Localized Network Configuration).
+* DHCP Management (DNS Routance, Router/Edge Deployance, Localized Network Configuration),
+* Windows Server, Proxmox, cPanel, DirectAdmin, Froxlor)
+* CVE Diagnosis.
 
-  I've worked with many popular systems including Atlassian, Okta, Nginx, Apache2, Certbot, Git-CLI, AWS/DIGITALOCEAN/Google_Cloud, and many others. I've designed and and deployed solutions both in the cloud and in Local Networks with agile secuirty on Layer7 (OSI/Cloudflare) & Layer 3 (OSI/Linux). 
+  I've worked with many popular systems including Atlassian, Okta, Nginx, Apache2, Certbot, Git-CLI, AWS/DIGITALOCEAN/Google_Cloud, and many others. I've designed and and deployed solutions both in the cloud and in Local Networks with agile security on Layer7 (OSI/Cloudflare) & Layer 3 (OSI/Linux). I've worked with technology for many years with a passion for making things work for others. 
 
 # How I do it?
 
