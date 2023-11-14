@@ -6,15 +6,16 @@ I am a **experienced** individual working with many areas of Information Technol
 
 * IP Based Restrictrion(s) utilizing multiple IPSEC methods (WireGuard, OpenVPN Proxying, FireZone, e.g),
 * Linux Administration (Apt Repositories, Web-Hosting, Security Updates, Bash Writing, General Maintenance),
-* SAAS Product Integration (OKTA Authentication into Programs, Development Enviorments, NGINX/APACHE Webhost Configurations),
+* SAAS Product Integration (OKTA Authentication into Programs, Development Environments, NGINX/APACHE Webhost Configurations),
 * Office365 Management,
 * Active Directory Domain Services (Local Domain Tree Foresting & Authorization),
 * CloudFlare (ZeroTrust, DNS Services, and Firewall sets),
-* Amazon (VDI, Route53, and S3 Containers).
-* Github (Git | Pull & Get)
-* Atlassian (ServiceDesk, Confluence, Bitbucket | Jira Agile)
-* DNS Administration (DNS Resolution, Deployance, DNSSEC, HTTPS, DNS Digging)
-* DHCP Management (DNS Routance, Router/Edge Deployance, Localized Network Configuration)
+* Amazon (VDI, Route53, and S3 Containers),
+* Github (Git | Pull & Get),
+* Github (WebGUI, Pull Requests, Code Editing),
+* Atlassian (ServiceDesk, Confluence, Bitbucket | Jira Agile),
+* DNS Administration (DNS Resolution, Deployance, DNSSEC, HTTPS, DNS Digging),
+* DHCP Management (DNS Routance, Router/Edge Deployance, Localized Network Configuration).
 
   I've worked with many popular systems including Atlassian, Okta, Nginx, Apache2, Certbot, Git-CLI, AWS/DIGITALOCEAN/Google_Cloud, and many others. I've designed and and deployed solutions both in the cloud and in Local Networks with agile secuirty on Layer7 (OSI/Cloudflare) & Layer 3 (OSI/Linux). 
 
