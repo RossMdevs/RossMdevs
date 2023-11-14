@@ -10,6 +10,7 @@ I am a **experienced** individual working with many areas of Information Technol
 * Office365 Management,
 * Active Directory Domain Services (Local Domain Tree Foresting & Authorization),
 * CloudFlare (ZeroTrust, DNS Services, and Firewall sets),
+* UFW (Uncomplicated Firewall),
 * Amazon (VDI, Route53, and S3 Containers),
 * Github (Git | Pull & Get),
 * Github (WebGUI, Pull Requests, Code Editing),
