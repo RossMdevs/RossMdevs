@@ -1,6 +1,6 @@
 ### Hello! I am Ross Mersch,
 
-I am a **experienced** individual working with many areas of Information Technology. I'ved worked on projects such as [BlitheMC](https://blithemc.co) & [I:COA](https://indianacoa.com/team). I am a former Tier 1 IT   Helpdesk technican with Problem-Solving and Isolation skills specializing in Solution Deployment. 
+I am a **experienced** individual working with many areas of Information Technology. I've worked on projects such as [BlitheMC](https://blithemc.co) & [I:COA](https://indianacoa.com/team). I am a former Tier 1 IT Helpdesk technican with Problem-Solving and Isolation skills specializing in Solution Deployment. 
 
 # Type(s) of systems I've worked with:
 
