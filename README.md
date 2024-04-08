@@ -1,10 +1,10 @@
 ### Hello! I am Ross Mersch,
 
-I am a **experienced** individual working with many areas of Information Technology. I've worked on projects such as [BlitheMC](https://blithemc.co) & [I:COA](https://indianacoa.com/team). I am a former Tier 1 IT Helpdesk technican with Problem-Solving and Isolation skills specializing in Solution Deployment. 
+I am a **experienced** individual working with many areas of Information Technology. I've worked on projects such as [BlitheMC](https://blithemc.co) & [I:COA](https://indianacoa.com/team). I am also a former Tier 1 IT Helpdesk technican with Problem-Solving and Isolation skills specializing in Solution Deployment. 
 
 # Type(s) of systems I've worked with:
 
-* IP Based Restrictrion(s) utilizing multiple IPSEC methods (WireGuard, OpenVPN Proxying, FireZone, e.g),
+* IP Based Restriction(s) utilizing multiple IPSEC methods (WireGuard, OpenVPN Proxying, FireZone, e.g),
 * Linux Administration (Apt Repositories, Web-Hosting, Security Updates, Bash Writing, General Maintenance),
 * SAAS Product Integration (OKTA Authentication into Programs, Development Environments, NGINX/APACHE Webhost Configurations),
 * Office365 Management,
