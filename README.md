@@ -1,6 +1,6 @@
 ### Hello! I am Ross Mersch,
 
-I am a **experienced** individual working with many areas of Information Technology. I've worked on succesful projects such as [UrbanCity RP](https://ucrp.online), [BlitheMC](https://blithemc.co), and [I:COA](https://indianacoa.com/team). I am also a former Tier 1 IT Helpdesk technican with Problem-Solving and Isolation skills specializing in Solution Deployment. I work daily w/ lua, json, .cfg, and other enviorment variables.
+I am a **experienced** individual working with many areas of Information Technology. I've worked on succesful projects such as [UrbanCity RP](https://ucrp.online), [BlitheMC](https://blithemc.co), and [I:COA](https://indianacoa.com/team). I am also a former Tier 1 IT Helpdesk technican with Problem-Solving and Isolation skills specializing in Solution Deployment. I work daily w/ lua, json, .cfg, and other environment variables.
 
 # Type(s) of systems I've worked with:
 
