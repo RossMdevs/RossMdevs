@@ -1,6 +1,13 @@
-### Hello! I’m Ross Mersch
+### Hello, I’m Ross.
 
-I am a professional with broad expertise in Information Technology. I have successfully contributed to various projects, including [UrbanCity RP](https://ucrp.online), [BlitheMC](https://blithemc.co), and [I:COA](https://indianacoa.com/team). My experience as a Tier 1 IT Helpdesk Technician has sharpened my problem-solving abilities and solution deployment skills. I regularly work with Lua, JSON, .cfg files, and other environment variables.
+I am an experience tech user with broad expertise in Information Technology. I have successfully contributed to various projects, including UrbanCity RP, [BlitheMC](https://blithemc.co), and [I:COA](https://indianacoa.com/team). My experience as a Tier 1 IT Helpdesk Technician has sharpened my problem-solving abilities and solution deployment skills. I regularly contribute vocally to projects. I've developed in-house solutions.
+
+Some Solutions I've built:
+- Basic CLI Conduct Tracker (Stored to SQL)
+- TeamSpeak Query GUI Permissions Manager
+- Staff Applications tracker
+- Ban Appeals
+- Jira (SAAS) Systems to handle hiring, retention, and onboarding of staff with workflows.
 
 ### Areas of Expertise:
 
