@@ -5,11 +5,13 @@
 I am an experienced technology professional with a broad background in Information Technology. I have successfully contributed to projects such as UrbanCity RP, [BlitheMC](https://blithemc.co), and [I:COA](https://indianacoa.com/team). My role as a Tier 1 IT Helpdesk Technician has honed my problem-solving and solution implementation skills. I actively participate in project discussions and have developed in-house solutions. With extensive experience in FiveM, I am a regular contributor to CFX communications on Discord, staying well-informed on updates and changes affecting FiveM servers and players.
 
 ### Solutions I’ve Designed or Built:
-- Basic CLI Conduct Tracker (stored in SQL)
-- TeamSpeak Query GUI Permissions Manager
-- Ban Appeals System
-- Jira (SaaS) systems for managing staff hiring, retention, and onboarding through customized workflows
-- Discord Bot for managing HTTPasswd creation for Apache/Nginx systems, centralizing credentials on an agile-browser endpoint
+- Basic CLI Conduct Tracker (stored in SQL),
+- TeamSpeak Query GUI Permissions Manager,
+- Ban Appeal(s) using an internal tracker and logging system,
+- Jira (SaaS) systems for managing staff hiring, retention, and onboarding through customized workflows,
+- Automation for managing HTTPasswd creation for Apache/Nginx systems, centralizing credentials on an agile-browser endpoint,
+- UNIX System to manage and deploy updates to projects,
+- R/P/S systems using AWS-S3 to manage, deploy, and package backups for a critical-workload application,
 - Okta & Okta ASA implementation for least-privileged access to secure cloud resources while maintaining identity security.
 
 ### Areas of Expertise:
