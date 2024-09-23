@@ -1,3 +1,5 @@
+![Alt text](https://mike-uses.uploads.systems/eqwqa3yo.jpg)
+ 
 ### Hello, I’m Ross.
 
 I am an experienced technology professional with a broad background in Information Technology. I have successfully contributed to projects such as UrbanCity RP, [BlitheMC](https://blithemc.co), and [I:COA](https://indianacoa.com/team). My role as a Tier 1 IT Helpdesk Technician has honed my problem-solving and solution implementation skills. I actively participate in project discussions and have developed in-house solutions. With extensive experience in FiveM, I am a regular contributor to CFX communications on Discord, staying well-informed on updates and changes affecting FiveM servers and players.
