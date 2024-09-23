@@ -26,7 +26,7 @@ I am an experienced technology professional with a broad background in Informati
 - **System & Web Server Management**: Knowledgeable in maintaining Windows Server environments and managing hosting platforms such as Proxmox, cPanel, DirectAdmin, and Froxlor to support various web hosting needs.
 - **Security Vulnerability Diagnosis (CVE)**: Experienced in identifying and addressing common vulnerabilities (CVE), ensuring the security of IT infrastructure.
 
-### The Digital Impact I've Made
+### The Digital Impact I've Made:
 My digital impact has been significant. I’ve reduced project costs by 50%, developed innovative solutions that enable non-technical users to navigate complex systems with ease, and organized workshops and training programs to enhance understanding of advanced technologies. I’ve implemented robust safety measures that withstand brute force attempts and created virtual Disaster Recovery Plans for communities that can't risk downtime. Every project I’ve been involved in has left the owners satisfied, often receiving applause for the work completed. Additionally, 
 
 
