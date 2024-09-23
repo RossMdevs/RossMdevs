@@ -16,7 +16,7 @@ I am an experienced technology professional with a broad background in Informati
 
 ### Areas of Expertise:
 - **Network Security & IP Restrictions**: Skilled in securing networks with IP-based restrictions, implementing methods like WireGuard, OpenVPN, FireZone, and configuring firewalls (UFW) to protect Linux systems and web environments.
-- **Linux Administration & Automation**: Proficient in managing Linux systems, including Apt repositories, software updates, web hosting, and Bash scripting for task automation and system health maintenance.
+- **Linux Administration & Automation**: Proficient in managing Linux systems, including APT repositories, software updates, web hosting, and Bash scripting for task automation and system health maintenance.
 - **SaaS & Identity Management**: Expertise in integrating SaaS products, including OKTA for authentication, and configuring secure development environments. Experience with setting up and managing web servers (NGINX/APACHE) to support scalable applications.
 - **Microsoft Office 365 & Active Directory**: Hands-on experience administering Office 365 environments and setting up Active Directory Domain Services for managing user access, permissions, and local domain infrastructures.
 - **Cloud Services & DNS Management**: Deep knowledge of Cloudflare for Zero Trust security, DNS configuration, and firewall management. Skilled in Amazon Web Services (AWS) with experience in virtual desktops (VDI), Route 53 for DNS management, and S3 for cloud storage.
@@ -27,7 +27,7 @@ I am an experienced technology professional with a broad background in Informati
 - **Security Vulnerability Diagnosis (CVE)**: Experienced in identifying and addressing common vulnerabilities (CVE), ensuring the security of IT infrastructure.
 
 ### The Digital Impact I've Made:
-My digital impact has been significant. I’ve reduced project costs by 50%, developed innovative solutions that enable non-technical users to navigate complex systems with ease, and organized workshops and training programs to enhance understanding of advanced technologies. I’ve implemented robust safety measures that withstand brute force attempts and created virtual Disaster Recovery Plans for communities that can't risk downtime. Every project I’ve been involved in has left the owners satisfied, often receiving applause for the work completed. Additionally, 
+My digital impact has been significant. I’ve reduced project costs by 50%, developed innovative solutions that enable non-technical users to navigate complex systems with ease, and organized workshops and training programs to enhance understanding of advanced technologies. I’ve implemented robust safety measures that withstand brute force attempts and created virtual Disaster Recovery Plans for communities that can't risk downtime. Every project I’ve been involved in has left the owners satisfied, often receiving applause for the work completed. 
 
 
 ### Notable Projects
