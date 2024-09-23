@@ -11,7 +11,7 @@ I am an experienced technology professional with a broad background in Informati
 - Jira (SaaS) systems for managing staff hiring, retention, and onboarding through customized workflows
 - Automation for managing HTTPasswd creation for Apache/Nginx systems, centralizing credentials on an agile-browser endpoint
 - UNIX system to manage and deploy updates to projects
-- R/P/S systems using AWS-S3 to manage, deploy, and package backups for critical workload applications
+- REC/PACK/SEND systems utilizing AWS S3 to manage, deploy, and package backups for critical workload applications, achieving a throughput of 400GB with a total delivery time of just 2 minutes.
 - Okta & Okta ASA implementation for least-privileged access to secure cloud resources while maintaining identity security
 
 ### Areas of Expertise:
