@@ -27,6 +27,9 @@ I am an experienced technology professional with a broad background in Informati
 - **System & Web Server Management:** Knowledgeable in maintaining Windows Server environments, and managing hosting platforms such as Proxmox, cPanel, DirectAdmin, and Froxlor to support various web hosting needs.
 - **Security Vulnerability Diagnosis (CVE):** Experienced in identifying and addressing common vulnerabilities (CVE), ensuring the security of IT infrastructure.
 
+# The Digital Impact I've Made
+My digital impact has been significant. I've reduced project costs by 50%, developed innovative solutions that enable non-technical users to navigate complex systems with ease, and organized workshops and training programs to enhance understanding of advanced technologies. I've implemented robust safety measures that withstand brute force attempts and created virtual Disaster Recovery Plans for communities facing potential data loss or downtime. I have ensured that every project I’ve been involved in has left the owners satisfied, often receiving accolades for the work completed. Additionally, I've designed agile networks and provided the necessary resources for ongoing success.
+
 I have extensive experience with systems like Atlassian, Okta, NGINX, Apache2, Certbot, and various cloud platforms including AWS, DigitalOcean, and Google Cloud. My passion is designing and deploying solutions in both cloud and local environments, with a strong focus on agile security at Layer 7 (OSI/Cloudflare) and Layer 3 (OSI/Linux).
 
 
