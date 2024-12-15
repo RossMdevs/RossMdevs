@@ -11,6 +11,7 @@ I am an experienced technology professional with a broad background in Informati
 - UNIX system to manage and deploy updates to projects
 - REC/PACK/SEND systems using AWS S3 to manage and package backups for critical applications, achieving **400GB+** throughput with a 2-minute delivery time every 5 minutes.
 - Okta & Okta ASA implementation for least-privileged access to secure cloud resources while maintaining identity security
+- Onyx: A DBLA authentication web app with init() functions, complete user permissions/RBAC, and full customization options built from the ground up using PHP, HTML, JS, and CSS. **Featured on [Based City RP](https://basedcityrp.rmsolutions.tech/)**.
 
 ### Areas of Expertise:
 - **Network Security & IP Restrictions**: Skilled in securing networks with IP-based restrictions, implementing methods like WireGuard, OpenVPN, FireZone, and configuring firewalls (UFW) to protect Linux systems and web environments.
