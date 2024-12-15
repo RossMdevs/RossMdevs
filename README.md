@@ -11,7 +11,20 @@ I am an experienced technology professional with a broad background in Informati
 - UNIX system to manage and deploy updates to projects
 - REC/PACK/SEND systems using AWS S3 to manage and package backups for critical applications, achieving **400GB+** throughput with a 2-minute delivery time every 5 minutes.
 - Okta & Okta ASA implementation for least-privileged access to secure cloud resources while maintaining identity security
-- Onyx: A DBLA authentication web app with init() functions, complete user permissions/RBAC, and full customization options built from the ground up using PHP, HTML, JS, and CSS. **Featured on [Based City RP](https://basedcityrp.rmsolutions.tech/)**.
+
+# Onyx Systems: 
+
+Onyx: A DBLA authentication web app built from the ground up using PHP, HTML, JS, and CSS, featuring init() functions, basic user permissions/RBAC, and full customization options. **Featured on [Based City RP](https://basedcityrp.rmsolutions.tech/)**.
+- **Redirect Handoffs**: Tracks session data and redirects unauthenticated users back to their original page after authentication.
+- **Multi-Role Based Access**: Utilizes init.php to store variables, ensuring users have the appropriate access.
+- **Variable DB Tracking**: Includes First_Login, roblox_id, and DID (Discord ID).
+- **Online/Offline System**: Tracks user status in real-time.
+- Custom Error Pages for each webapp project
+  - Applications are stored in /webapp/, including authentication, you can ``require init.php`` to retrieve permissions.
+- **Account Management**: A fully functional enable/disable system with reasons stored in SQL.
+
+  
+⚠️ This application is designed specifically for the projects that use it, requiring customization. It is not open source, nor "avaliable for use".
 
 ### Areas of Expertise:
 - **Network Security & IP Restrictions**: Skilled in securing networks with IP-based restrictions, implementing methods like WireGuard, OpenVPN, FireZone, and configuring firewalls (UFW) to protect Linux systems and web environments.
