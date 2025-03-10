@@ -1,5 +1,4 @@
-![Alt text](https://mike-uses.uploads.systems/eqwqa3yo.jpg)
-
+![Alt text](https://raw.githubusercontent.com/RossMdevs/RossMdevs/refs/heads/main/view.jpg)
 ### Hello, I’m Ross.
 
 # About Me  
