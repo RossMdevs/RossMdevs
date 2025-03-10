@@ -1,66 +1,73 @@
 ![Alt text](https://raw.githubusercontent.com/RossMdevs/RossMdevs/refs/heads/main/view.jpg)
-### Hello, I’m Ross.
 
 # About Me  
 
-Hello, I’m **U123** (or **Ross**). I’m 23 years old and passionate about working with complex technologies and agile networks. I consider myself a **Network Ops Developer** and **Cloud Infrastructure Engineer**, with experience in authentication platforms like **Auth0 (ADP)** and **Okta**, on-call systems such as **PagerDuty**, and enterprise security tooling, including:  
+Hello, I’m **U123** (or **Ross**), a **23-year-old Cloud & In-House Infrastructure Engineer** with a passion for **complex technologies, enterprise security, authentication platforms, cloud infrastructure, and network engineering**. I specialize in designing scalable solutions that optimize performance, security, and user experience.  
 
-- **Active Directory** (Networked Group Policy, Networked Security Policies, Unified Login Solutions, and Federated Tree Forests)  
-- **WireGuard** and **IP security protocols**  
-- **Alerting systems**  
+## Professional Experience  
 
-My expertise extends to **Linux**, **DHCP & DNS management**, **user onboarding experiences and tooling**, and **user support and design experiences (CSX/UDX)**. I have also designed **small-scale tooling solutions** for projects I’ve been involved with.  
+### Technical Expertise  
 
-## Background & Experience  
+*This is a general overview, as I have worked with various technologies at different levels.*  
 
-My background includes working with foundational systems like **Active Directory** and **Entra ID**, as well as security solutions such as **CrowdStrike** and **XDR/EDR**. Additionally, I have experience with tools like **Jira**, **self-hosted SaaS**, and **ELPC**.  
+- **Authentication Platforms:** Auth0 (ADP), Okta, and self-hosted solutions like Keycloak.  
+- **Enterprise Security:** Active Directory (Group Policy, Security Policies, Unified Login Solutions, Federated Tree Forests), WireGuard, IP security protocols, and ZTNA/tunnels.  
+- **Incident & On-Call Management:** PagerDuty and Opsgenie.  
+- **Granular Log Management:** New Relic, Datadog, Grafana, EZSM, Netdata, and more.  
+- **System & Network Management:** Linux, DHCP & DNS, user onboarding tools, CSX/UDX, OOTB management, device configuration protocols, and Office 365 (Enterprise, Consumer, Business, and Multi-Tenant).  
+    - For **Office 365-E**, I have worked with **E-Discovery, Retention Policies, and Azure Branding**.  
+- **Technical Support & IT Services:** Previously worked as a **Tier-1 Helpdesk Technician** at a **Managed Service Provider (MSP)**, supporting businesses of various sizes, from small pizza chains to large enterprises with agile infrastructure needs. My responsibilities included:  
+    - Providing **user support** and troubleshooting **network/system issues**.  
+    - Assisting with **IT infrastructure management**.  
+    - Managing **MSP-level Tier 1 ticketing systems**.  
+    - Performing **QoLS (Quality of Life & Stability) checks** for **Cradlepoint Networks**.  
+    - **Device imaging** and configuration.  
+    - Offering **OTP (Over-the-Phone) support**.  
+    - Collaborating with **Tier 2 and Tier 3 teams** for escalations.  
 
-I have worked with various **cloud solutions** and previously served as a **Tier 1 Helpdesk Technician** at a Managed Service Provider in my state. Beyond that, I have taken on roles as a **technology consultant** and **senior developer** for smaller projects that continue to thrive today.  
+I have also developed **small-scale tooling solutions** for various projects and have worked extensively with **cloud solutions and self-hosted SaaS environments**.  
 
-## Cloud & Infrastructure Management  
+---
 
-I have extensive experience managing **cloud-native infrastructures**, including:  
+## Infrastructure & Consulting  
 
-- **SFTP/FTP server deployment**  
-- **Dedicated server management**  
-- **IP address and rDNS configuration**  
-- **Mail server deployment**  
-- **DNS records management**  
+My expertise extends to:  
 
-I have handled the majority of startup infrastructure tasks, along with moderate-level **network engineering** responsibilities.  
+- **Cloud & Server Management:** Dedicated server deployment, SFTP/FTP setup, IP configuration, mail server deployment, and DNS management.  
+- **Security & Compliance:** CrowdStrike, XDR/EDR, and Entra ID.  
+- **Database & Hosting:** MariaDB, SQL Server, and cPanel.  
+- **IT Consulting & Development:** Advising technology startups, optimizing Ubuntu-based servers, and designing custom automation tools.  
 
-## Consulting & Development  
+I began my career as a **Tier 1 Helpdesk Technician** at a Managed Service Provider and have since taken on roles as a **technology consultant and senior developer** for several growing projects.  
 
-In addition to **owning an LLC**, I have contributed to several **technology startups**, offering expertise in:  
-
-- **IT consulting**  
-- **Server administration**  
-- **Security best practices**  
-
-I have experience managing **cPanel** environments for web hosting, configuring **MariaDB** and **SQL Server** databases, and optimizing **Ubuntu-based server deployments** for **reliability and security**.  
+---
 
 ## Community & Volunteer Work  
 
-I have a background in **volunteer work** and **community-driven projects**, particularly in **roleplay gaming communities**, where I have:  
+Beyond IT, I actively contribute to **roleplay gaming communities**, developing **custom admin panels and moderation tools** to enhance user experience and operational efficiency. I also engage in **local initiatives**, such as:  
 
-- Developed **custom panels**  
-- Created **moderation tools** to streamline administrative processes  
+- Volunteering at a **county warming shelter**.  
+- Mentoring **aspiring IT professionals**.  
+- Supporting **community-driven projects**.  
 
-My ability to **identify and resolve IT infrastructure issues**, along with my **zero-tolerance approach to inefficiency and misconduct**, has enabled me to successfully manage both **technical** and **operational** challenges in various settings.  
+---
 
-Beyond my work in technology, I get involved in **local initiatives**, such as **volunteering at a county warming shelter**. I also stay active in my community, continue to develop my skills, and **mentor aspiring IT professionals** to help them grow in the field.  
+## Digital Impact  
 
-### The Digital Impact I've Made:
-My digital impact has been significant. I’ve reduced project costs by 50%, developed innovative solutions that enable non-technical users to navigate complex systems with ease, and organized workshops and training programs to enhance understanding of advanced technologies. I’ve implemented robust safety measures that withstand brute force attempts and created virtual Disaster Recovery Plans for communities that can't risk downtime. Every project I’ve been involved in has left the owners satisfied, often receiving applause for the work completed. 
+I have optimized **project costs by 50%**, developed **practical solutions** that simplify complex systems for non-technical users, and implemented **strong security measures** to mitigate brute-force threats. Additionally, I have designed **Virtual Disaster Recovery Plans** for fully cloud-based, self-sufficient organizations with fewer than 12 volunteer members, ensuring continuous uptime and operational resilience through consumer-grade tools such as **CRONTAB**, **CLI**, and **AWS S3**.
 
+Every project I’ve been involved in has been well-received, with owners (or Stakeholders) consistently expressing satisfaction and recognizing the value of my contributions.
 
-### Notable Projects
-- [IndianaCOA](https://indianacoa.com): ITSM Staff, Discord Staff
-- [BlitheMC](https://blithemc.co): Technological Success Advisor and Network Developer
-- Liberty State Roleplay: Internal Affairs, Management
-- EndlessHosting: Systems Administrator
-- RLMTECH: Owner
-- Discord Stop: Listings Admin
-- Troop Life (Roblox): Game Moderator/PeaceKeeper
-- E-IT Consulting: Tier 1 Helpdesk Technician
-- And many more.
+---
+
+## Notable Projects (Both Cloud and Physical)
+
+- [**IndianaCOA**](https://indianacoa.com) – ITSM Staff, Discord Staff  
+- [**BlitheMC**](https://blithemc.co) – Technological Success Advisor and Network Developer  
+- **Liberty State Roleplay** – Internal Affairs, Management  
+- **EndlessHosting** – Systems Administrator  
+- **RLMTECH** – Owner  
+- **Discord Stop** – Listings Admin  
+- **Troop Life (Roblox)** – Game Moderator/Peacekeeper  
+- **E-IT Consulting** – Tier 1 Helpdesk Technician  
+- *And many more…*  
